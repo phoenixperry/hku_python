@@ -32,7 +32,14 @@ contacttijd: 45 uur, zelfstudie : 11 uur
 
 Deze module introduceert studenten met de relevantie van programmeren in de 21e eeuw als creatieve uiting binnen een sociale context. Rondom een imperatieve programmeertaal worden een gedegen basis aan begrippen, theorie en mindset aangeleerd en komen studenten in aanraking met verschillende tools binnen development; compiler en integrated development environment.
 
-###Language: Python 2.7.10   
+---
+This class adheres to the [Open Code of Conduct][code-of-conduct]. By participating, you are expected to honor this code.
+[code-of-conduct]: http://todogroup.org/opencodeofconduct/#HKU_Python_Class/phoenix.perry@hku.nl
+
+---
+
+###Language: 
+Python 2.7.10   
 
 ###Software:  
 
@@ -146,6 +153,7 @@ You are required to attend the lab session listed in your schedule. There you ne
 
 #####Week Twelve: Review  
 * Do: lab_12.md
+
 
 Note: I am leaving the HKU on Sept 31st. After that you'll have a new teacher. I'm joining Goldsmiths at the University of London. After then, find me at @phoenixperry on twitter 
 
