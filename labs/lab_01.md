@@ -22,14 +22,14 @@ Create a program that prints out a tick tack toe board when it runs in the conso
 
 
 ##Exercise 1_1  
-Create a simple program that asks the user a series of questions and saves the answers.  
+Create a simple program that asks the user a series of questions and saves the answers about an immaginary character.  
  
-1. What is your favorite color?  
+1. What is your character's favorite color?  
 
-2. What is your favorite food?  
+2. What is your character's favorite food?  
 
-3. Where do you live?  
+3. Where does your character's live?  
 
 Then print out all of these answers in the following format:  
 
-Your favorite colors is [USER COLOR HERE] and your favorite foods is [USER FOOD HERE]. You live in [USER LOCATION HERE] 
+Ursula's favorite colors is [USER COLOR HERE] and her favorite foods is [USER FOOD HERE]. She lives in [USER LOCATION HERE] 
