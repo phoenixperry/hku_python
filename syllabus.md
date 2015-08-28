@@ -1,5 +1,8 @@
 ##Empowering Creative Thinking Through Programming
 
+![alt text](http://www.phoenixperry.com/cats/creativeCat.gif)  
+
+
 Osiriscode 		: G&I-1-ECTTP-15
 
 Tijdvak 			: Blok 1 en 2	  
@@ -8,18 +11,22 @@ Studiepunten	: 2 EC
 
 contacttijd: 45 uur, zelfstudie : 11 uur 
 
-Instructor: Phoenix Perry 
+**Instructor:** Phoenix Perry
 
-Email: phoenix.perry@hku.nl 
+**Email:** phoenix.perry@hku.nl 
 
-Lab Instructors: Saskia Freeke, Aaron Oostdijk, Valentijn Muijrers, Ton Markus 
+--
+###Assignments and notes will be posted weekly on github here:
+	https://github.com/phoenixperry/hku_python 
+--
 
-Email: saskia.freeke@hku.nl, aaron.oostdijk@hku.nl, valentij.muijrers@hku.nl, ton.markus@hku.nl 
+**Lab Instructors:** Saskia Freeke, Aaron Oostdijk, Valentijn Muijrers, Ton Markus 
 
-TAs: 
+**Email:** saskia.freeke@hku.nl, aaron.oostdijk@hku.nl, valentij.muijrers@hku.nl, ton.markus@hku.nl 
 
-Assignments and notes will be posted weekly on github here: 
-https://github.com/phoenixperry/hku_python 
+**TAs:**
+
+
 
 ###Course Description: 
 
@@ -139,3 +146,7 @@ You are required to attend the lab session listed in your schedule. There you ne
 
 #####Week Twelve: Review  
 * Do: lab_12.md
+
+Note: I am leaving the HKU on Sept 31st. After that you'll have a new teacher. I'm joining Goldsmiths at the University of London. After then, find me at @phoenixperry on twitter 
+
+![alt text](http://www.phoenixperry.com/cats/catLeaving.gif)  
