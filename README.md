@@ -22,10 +22,16 @@ contacttijd: 45 uur, zelfstudie : 11 uur
 
 **Lab Instructors:** Saskia Freeke, Aaron Oostdijk, Valentijn Muijrers, Ton Markus 
 
-**Email:** saskia.freeke@hku.nl, aaron.oostdijk@hku.nl, valentij.muijrers@hku.nl, ton.markus@hku.nl 
+**Email:** saskia.freeke@hku.nl, aaron.oostdijk@hku.nl, valentijn.muijrers@hku.nl, ton.markus@hku.nl 
 
 **TAs:**
+Thom van de Vin   thom@vandev.in
 
+kenrick ouwehand kenrick.ouwehand@gmail.com
+
+Paul Levels pwplevels@gmail.com
+
+Viktor Bensch viktorenmartijn@gmail.com
 
 
 ###Course Description: 
