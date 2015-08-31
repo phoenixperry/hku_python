@@ -21,13 +21,29 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 *Delivery* | The program was delivered on time. | The program was delivered within a week of the due date. | The code was within 2 weeks of the due date. | The code was more than 2 weeks overdue. 
 
 ##Exercise 1_0 
-Install Python version 2.7.10 
+1. Install Python version 2.7.10 
 https://www.python.org 
 
-Install Pycharms: 
-  
+2. Get java 
+
+	* If you are on a mac, you'll need to install java. 
+You can get apple's java here
+https://support.apple.com/kb/DL1572?locale=en_US 
+
+	
+	* If you are on windows you might also need to do this step. Download java SE for runtime 
+http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html 
 
 
+3.Install Pycharm's Community Edition: 
+https://www.jetbrains.com/pycharm/download/ 
+
+4.Open up pycharm and create a new project 
+	File > New Project 
+	 
+
+
+---
 ##Exercise 1_1 
 
 Create a program that prints out a tick tack toe board when it runs in the console 
