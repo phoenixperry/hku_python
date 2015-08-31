@@ -39,8 +39,9 @@ http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.h
 https://www.jetbrains.com/pycharm/download/ 
 
 4.Open up pycharm and create a new project 
-	File > New Project 
-	![](https://github.com/phoenixperry/hku_python/blob/master/images/newProject.png)  
+	File > New Project 	
+	It will open this pop up. 	
+![](https://github.com/phoenixperry/hku_python/blob/master/images/newProject.png)  
 	
 Make sure you select the version of python that's 2.7.10 that's in the Library folder if you're on a mac. On windows this will not be a problem. You'll just see it listed here. 
 
