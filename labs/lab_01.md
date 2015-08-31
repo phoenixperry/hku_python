@@ -43,7 +43,7 @@ https://www.jetbrains.com/pycharm/download/
 	It will open this pop up. 	
 ![](https://github.com/phoenixperry/hku_python/blob/master/images/newProject.png)  
 	
-Make sure you select the version of python that's 2.7.10 that's in the Library folder if you're on a mac. On windows this will not be a problem. You'll just see it listed here. 
+Make sure you select the version of python that's 2.7 that's in the Library folder if you're on a mac. On windows this will not be a problem. You'll just see it listed here. 
 
 On windows you might need to add a system path environmental variable. This will be the most annoyingly low level thing you'll do all term if so. I'm hopeful that pycharm does it for you but if not it will be needed to be done by hand. Here's some info. https://docs.python.org/2/using/windows.html 
 
