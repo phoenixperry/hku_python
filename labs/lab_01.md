@@ -38,7 +38,7 @@ http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.h
 3.Install Pycharm's Community Edition: 
 https://www.jetbrains.com/pycharm/download/ 
 
-4.Open up pycharm and create a new project 
+4.Open up pycharm and create a new project from the menu choose:
 	File > New Project 	
 	It will open this pop up. 	
 ![](https://github.com/phoenixperry/hku_python/blob/master/images/newProject.png)  
@@ -47,6 +47,12 @@ Make sure you select the version of python that's 2.7 that's in the Library fold
 
 On windows you might need to add a system path environmental variable. This will be the most annoyingly low level thing you'll do all term if so. I'm hopeful that pycharm does it for you but if not it will be needed to be done by hand. Here's some info. https://docs.python.org/2/using/windows.html 
 
+5. A few things about Pycharm that are clever 
+* To run your code, from the menu choose: 
+Run > Run 
+
+* To see the output console, from the menu choose: 
+View > Tool Windows > Python Console
 
 
 ---
@@ -71,4 +77,22 @@ Ursula's favorite colors is [USER COLOR HERE] and her favorite foods is [USER FO
 Example output: 
 Ursula's favorite colors is grey and her favorite foods is cake. She lives in The Alps. 
 
-*Hint* Check out the class code from the first week! 
+This exercise uses string variables and the raw_input("Some message to the user") function. 
+
+The raw_input function just reads whatever the user types and assigns it to the variable on the left of it 
+
+for example: 
+
+` userInput = raw_input("What's in quotes is printed in the console for the user as a prompt")`
+
+Remember variable names can be anything. We make them up! userInput in this case could be potato and do exactly the same thing. 
+
+` potato = raw_input("What's in quotes is printed in the console for the user as a prompt")`
+
+Remember that raw_input("some prompt") is a function. A function is like a verb in a sentence. It does a thing. In this case it saves what the user types in the variable names potato. 
+
+We will go into that in lots of detail in the coming weeks! No fear! This is a simple cheat I'm doing to get you making *something* and typing code. Have no fear if you only understand this a bit. That's all I have explained it thus far!  
+
+
+Hint:
+Check out the class code from the first week here -> https://github.com/phoenixperry/hku_python/blob/master/class_code/week01/week01.py  
