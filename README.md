@@ -102,6 +102,8 @@ https://github.com/phoenixperry/hku_python/labs
 
 You are required to attend the lab session listed in your schedule. There you need to you your lab work independently. There will be a teacher or a TA there to help answer any questions you have. 
 
+###All of the code for each week will be pushed up to github.com here 
+
 
 #####Week One: Installation and Course Overview  
 * Watch: Video 1 
