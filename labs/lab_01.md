@@ -2,10 +2,10 @@
  
 ##### Naming conventions 
 
-Put all of your homework files together into one folder, zip it and email it to your lab assistant with your student number_the week.zip 
+Put all of your homework files together into one folder, zip it and email it to your lab assistant with your name_the week.zip 
 
 **for example:** 
-1234567_01.zip
+phoenixperry_01.zip
 
 
 ##### Due Date 
@@ -16,9 +16,9 @@ Turn each lab no later than 24 hours after the lab session.
 
 Trait | Very Good | Good | Acceptable | Unsatisfactory	
 --- |--- | --- | --- | ---
-| *Specifications* | The program produces correct results but does not display them correctly. | The program works and produces the correct results and displays them correctly. It also meets most of the other specifications. | The program produces correct results but does not display them correctly. | The program is producing incorrect results.
+| *Specifications* | The program produces correct results and meets all specifications. | The program works and produces the correct results and displays them correctly. It also meets most of the other specifications. | The program produces correct results but does not display them correctly. | The program is producing incorrect results.
 *Readability* | The code is exceptionally well organized and very easy to follow. | The code is fairly easy to read. | The code is readable only by someone who knows what it is supposed to be doing.| The code is poorly organized and very difficult to read.|
-*Delivery* | The program was delivered on time. | The program was delivered within a week of the due date. | The code was within 2 weeks of the due date.|  | The code is poorly organized and very difficult to read.| The code was more than 2 weeks overdue. |
+*Delivery* | The program was delivered on time. | The program was delivered within a week of the due date. | The code was within 2 weeks of the due date.| The code is poorly organized and very difficult to read.| The code was more than 2 weeks overdue. | The code was later than 2 weeks.|  
 
 
 ##Exercise 1_0 

@@ -71,6 +71,9 @@ Python 2.7.10
 
 http://open.umich.edu/education/si/coursera-programming-everybody/winter2014/materials#Lectures  
 
+
+http://www.pythonlearn.com
+
 This class will run during the term for free on Coursera here 
 
 https://www.coursera.org/course/pythonlearn 
