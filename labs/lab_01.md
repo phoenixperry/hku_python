@@ -101,3 +101,20 @@ We will go into that in lots of detail in the coming weeks! No fear! This is a s
 
 Hint:
 Check out the class code from the first week here -> https://github.com/phoenixperry/hku_python/blob/master/class_code/week01/week01.py  
+
+####Are you lost? 
+SPEAK UP! We will help you I promise. Don't let this drag on and you are not alone! :) 
+Programming is crazy hard the first time you learn about it.
+ 
+Why not give this site a try. It's super awesome and very clear.http://www.learnpython.org 
+
+
+####Are you bored? 
+Are you horridly bored? Why not check out getting python running on a raspberry pi! 
+
+You could buy a simple pi here:
+https://www.raspberrypi.org/products/raspberry-pi-2-model-b/
+
+Now spend the first few weeks building the first project out of the book, Raspberry Pi Projects.   
+
+https://www.raspberrypi.org/blog/raspberry-pi-projects-a-big-book-by-andrew-robinson-and-mike-cook/

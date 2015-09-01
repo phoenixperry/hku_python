@@ -84,7 +84,14 @@ Dr. Chuck has an online code grader that should help you out which is awesome. A
 
 https://www.youtube.com/watch?v=slscHD40r78&feature=youtu.be
 
-#####Other basic optional online learning resources: Code Academy  
+#####Other optional online learning systems for people how don't like longer videos 
+
+resources: 
+1. Learn Python 
+Why not give this site a try. It's super awesome and very clear.http://www.learnpython.org  
+
+
+2. Code Academy  
 
 Note: Only valid the first few weeks - lots this class in not here. This of this as a tide over until the coursea course starts up if you want something to grade your code as you go: 
 https://www.codecademy.com/en/tracks/python
