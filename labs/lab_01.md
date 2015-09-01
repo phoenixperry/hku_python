@@ -45,7 +45,6 @@ https://www.jetbrains.com/pycharm/download/
 	
 Make sure you select the version of python that's 2.7 that's in the Library folder if you're on a mac. On windows this will not be a problem. You'll just see it listed here. 
 
-On windows you might need to add a system path environmental variable. This will be the most annoyingly low level thing you'll do all term if so. I'm hopeful that pycharm does it for you but if not it will be needed to be done by hand. Here's some info. https://docs.python.org/2/using/windows.html 
 
 5. A few things about Pycharm that are clever 
 * To run your code, from the menu choose: 
