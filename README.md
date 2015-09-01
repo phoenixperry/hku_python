@@ -84,11 +84,12 @@ Dr. Chuck has an online code grader that should help you out which is awesome. A
 
 https://www.youtube.com/watch?v=slscHD40r78&feature=youtu.be
 
-#####Other optional online learning systems for people how don't like longer videos 
+#####Other optional online learning systems for people how don't like longer videos x
 
-resources: 
+Resources: 
+
 1. Learn Python 
-Why not give this site a try. It's super awesome and very clear.http://www.learnpython.org  
+Why not give this site a try. It's super awesome and very clear and gives you immediate code feedback.http://www.learnpython.org  
 
 
 2. Code Academy  
@@ -104,8 +105,7 @@ https://www.codecademy.com/en/tracks/python
 * Final Exam - 40% of the final grade The homework assignments are required and will consist of programming assignments.
 
 ###Labs
-Each week there will be a lab assignment here in a folder called labs at this url 
-https://github.com/phoenixperry/hku_python/labs
+Each week there will be a lab assignment here in a folder called lab
 
 You are required to attend the lab session listed in your schedule. There you need to you your lab work independently. There will be a teacher or a TA there to help answer any questions you have. 
 
