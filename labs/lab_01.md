@@ -58,8 +58,14 @@ View > Tool Windows > Python Console
 ---
 ##Exercise 1_1 
 
-Create a program that prints out a tick tack toe board when it runs in the console 
+Create a program that prints out a tic tac toe board when it runs in the console 
 
+Sample output: 
+``` 
+|O|X|O|
+|O|X|O|
+|X|O|X|
+```
 
 ##Exercise 1_2  
 Create a simple program that asks the user a series of questions and saves the answers about an imaginary character, Ursula.  
