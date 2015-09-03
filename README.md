@@ -1,3 +1,4 @@
+
 ##Empowering Creative Thinking Through Programming
 
 ![alt text](http://www.phoenixperry.com/cats/creativeCat.gif)  
@@ -107,7 +108,7 @@ https://www.codecademy.com/en/tracks/python
 ###Labs
 Each week there will be a lab assignment here in a folder called lab
 
-You are required to attend the lab session listed in your schedule. There you need to you your lab work independently. There will be a teacher or a TA there to help answer any questions you have. 
+You are required to attend the lab session listed in your schedule. If you miss more than 3 labs, you must provide a valid reason. More than 3 absences is unacceptable. You will need to do make up work should you miss this many labs. See your lab instructor for more information. There you need to you your lab work independently. There will be a teacher or a TA there to help answer any questions you have. 
 
 ###All of the code for each week will be pushed up to github.com here 
 
