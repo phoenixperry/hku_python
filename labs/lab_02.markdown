@@ -4,6 +4,8 @@
 
 Put all of your homework files together into one folder, zip it and email it to your lab assistant with your name_the week.zip 
 
+** Make the subject of the email "lab 2" **
+
 **for example:** 
 phoenixperry_02.zip
 
@@ -51,6 +53,10 @@ https://processing.org/download/?processing
 
 Follow this guide to run and create your first sketch 
 http://py.processing.org/tutorials/gettingstarted/ 
+
+A quick tip is that the dropdown to add a mode is in the upper left hand corner of the processing IDE. 
+
+![alt text](http://www.github.com/phoenixop/creativeCat.gif)  
 
 Explore these shapes:  
 

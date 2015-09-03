@@ -1,0 +1,4 @@
+name = raw_input("What's your name?")
+age = raw_input("What's your age?")
+
+age = int(age)
