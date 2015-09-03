@@ -56,7 +56,7 @@ http://py.processing.org/tutorials/gettingstarted/
 
 A quick tip is that the dropdown to add a mode is in the upper left hand corner of the processing IDE. 
 
-![alt text](http://www.github.com/phoenixop/creativeCat.gif)  
+![alt text](https://github.com/phoenixperry/hku_python/blob/master/images/dropdown.png)  
 
 Explore these shapes:  
 
