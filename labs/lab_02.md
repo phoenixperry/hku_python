@@ -60,12 +60,16 @@ A quick tip is that the dropdown to add a mode is in the upper left hand corner 
 Explore these shapes:  
 
 http://py.processing.org/reference/ellipse.html 
+
 http://py.processing.org/reference/line.html
+
 http://py.processing.org/reference/quad.html
+
 http://py.processing.org/reference/triangle.html
 
 For color check out 
 http://py.processing.org/reference/fill.html 
+
 http://py.processing.org/reference/stroke.html 
 
 *Note: the color is in RGB color space. The first values represent red, green and blue. You can get RGB values out of tools like photoshop*  
