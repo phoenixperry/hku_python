@@ -32,6 +32,12 @@ Sample output:
 
 ```In five years you will be 25 years old``` 
 
+Need a hint? Check out the class code folder! 
+https://github.com/phoenixperry/hku_python/tree/master/class_code/week02/type_conversions
+
+Also, check the class notes! 
+https://github.com/phoenixperry/hku_python/tree/master/class_notes 
+
 ---
 ##Exercise 1_1 
 
@@ -74,12 +80,14 @@ http://py.processing.org/reference/stroke.html
 
 *Note: the color is in RGB color space. The first values represent red, green and blue. You can get RGB values out of tools like photoshop*  
 
-
 Don't have it? 
 http://www.colorpicker.com/ 
 
-
 Just pay attention to the RGB values. Ignore everything else. 
+
+#####Examples?
+As requested, I put up a few of little examples here: 
+https://github.com/phoenixperry/hku_python/tree/master/class_code/week02/processingExamples
 
 ####A quick note on the global prefix. 
 
