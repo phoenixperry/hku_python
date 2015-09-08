@@ -78,11 +78,14 @@ http://www.colorpicker.com/
 Just pay attention to the RGB values. Ignore everything else. 
 
 ####A quick note on the global prefix. 
-If you want to use a variable that's declared outside a function in a function, you'll need to set it to be used in the function using the global keyword.  Sorry I didn't remember this on Monday. It's been a minute since I last tried to do this in this kind of way. I tend to do this in another way that if I tried to cover yesterday would of confused the bejesus out of you. I promise to tell you soon. We're just not there yet.
+
+If you want to use a variable that's declared outside a function in a function, you'll need to set it to be used in the function using the global keyword.  Sorry I didn't remember this on Monday. It's been a minute since I last tried to do this in this kind of way. I tend to do this in another way that I promise to tell you soon. 
 
 For an example of how to do this look here: https://github.com/phoenixperry/hku_python/blob/master/class_code/week02/global_variable%20_example/global_variables.py
 
-(Hint: you can do it with objects or pass the values in for fancy folks). This isn't a great practice to get used to but it'll work for now with a better solution coming soon. Generally, it's a best practice to never change a global variable inside a function. More info coming on this soon.  
+(Hint: you can do it with objects or pass the values in for fancy folks.)
+
+Modifying a global variable inside a function isn't a great practice to get into but it'll work for now with a better solution coming soon. Generally, it's a best practice to never change a global variable inside a function but to *return* a value, which the way raw_input does. More info coming soon on this functionally.  
 
 ####Are you lost? 
 SPEAK UP! We will help you I promise. Don't let this drag on and you are not alone! :) 
