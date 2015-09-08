@@ -45,7 +45,8 @@ Sample output:
 
 ##Exercise 1_2  
 Download Processing and make a fun drawing. Hand in your final drawing. 
- 
+
+##A quick note on the global prefix. 
 
 ***GET AN OLDER VERSION! The latest is unstable.*** 
 **Download version 2.2.1 **
