@@ -21,5 +21,5 @@ using_global()
 
 #print s again now we are outside and finished with the function to see that inside the
 #function, because we had access to the variable outside the funciton, when we changed
-#the value inside it, we changed it outside as well. :) 
+#the value inside it, we changed it outside as well. :)
 print s
