@@ -1,0 +1,6 @@
+#this code runs for as long as the variable it creates, i is in the range between 3 and 6 
+x = 0
+for i in range (3,6):
+    x+=20
+    print str(i) + "is the value of i"
+    print str(x) + "is the value of x"
