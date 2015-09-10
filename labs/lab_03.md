@@ -69,6 +69,7 @@ https://docs.python.org/2/library/os.html
 
 Both groups: compile a python file from the command line! :) 
 
-Still have some time? check out writing files in Python 
+Still have some time? 
+Check out writing files in Python 
 http://learnpythonthehardway.org/book/ex16.html 
 
